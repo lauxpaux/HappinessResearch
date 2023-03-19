@@ -13,3 +13,8 @@ In this project, we visualize happiness trends for each continent and briefly in
 <img width="619" alt="image" src="https://user-images.githubusercontent.com/40530704/226195333-e0fc4be9-c892-4972-b398-71bdb3a761e2.png">
 <img width="619" alt="image" src="https://user-images.githubusercontent.com/40530704/226195455-3b989427-511c-4451-b3bf-1087628faacc.png">
 <img width="619" alt="image" src="https://user-images.githubusercontent.com/40530704/226195475-776ed3b8-2cc4-421d-a922-ec65215406fd.png">
+
+```
+git clone https://github.com/lauxpaux/HappinessResearch.git
+jupyter notebook
+```
