@@ -1,7 +1,11 @@
 # Happiness Research Project
+
 A data science project using the 2022 World Happiness Report dataset from kaggle found [here](https://www.kaggle.com/datasets/mathurinache/world-happiness-report/discussion/365308) to analyze contributing factors to happiness based on variables measured in the data.
 
 In this project, we visualize happiness trends for each continent and briefly investigate the relationship between happiness and corruption. 
+
+Tools used:
+Python Pandas Matplotlib Seaborn 
 
 <img width="892" alt="image" src="https://user-images.githubusercontent.com/40530704/226195217-377d90ab-c343-47ab-bdf4-fa8cab2170d4.png">
 <img width="780" alt="image" src="https://user-images.githubusercontent.com/40530704/226195228-4e3535f5-a37c-4578-8cb9-fc0608132dbf.png">
@@ -14,7 +18,10 @@ In this project, we visualize happiness trends for each continent and briefly in
 <img width="619" alt="image" src="https://user-images.githubusercontent.com/40530704/226195455-3b989427-511c-4451-b3bf-1087628faacc.png">
 <img width="619" alt="image" src="https://user-images.githubusercontent.com/40530704/226195475-776ed3b8-2cc4-421d-a922-ec65215406fd.png">
 
+
+to run project: 
 ```
 git clone https://github.com/lauxpaux/HappinessResearch.git
 jupyter notebook
 ```
+
